@@ -1,5 +1,21 @@
 # Smart To-Do List (C++)
 
+A command-line To-Do List manager built in C++ using a Min Heap to prioritize tasks efficiently.  
+Includes due date tracking and colorful terminal output to highlight overdue and upcoming tasks.
+
+---
+
+## 🚀 Features
+
+- 📌 **Add Tasks** with a priority level (1 = Highest)
+- 📅 **Optional Due Date** with overdue/due soon highlighting
+- 📊 **Min Heap** ensures top priority tasks always surface first
+- 🎨 **Colored Output** using ANSI escape codes
+- 🧹 Remove completed tasks easily
+- 💾 Keeps tasks in-memory during session
+
+---
+
 This repository contains a compact, maintainable C++ to-do application implemented as a learning project.
 
 Goals and improvements applied:
@@ -24,3 +40,8 @@ Files of interest:
 - `tests/` — unit tests
 
 This repository is marked as a learning project. See `LEARNING.md` for details.
+
+
+
+
+
