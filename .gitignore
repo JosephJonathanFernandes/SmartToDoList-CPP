@@ -1,0 +1,21 @@
+# Build files
+/build/
+/**/CMakeFiles/
+/**/CMakeCache.txt
+/*.obj
+/*.o
+/*.exe
+/*.log
+
+# Editor files
+.vscode/
+*.swp
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# secrets and tokens
+*.key
+*.pem
+*.env

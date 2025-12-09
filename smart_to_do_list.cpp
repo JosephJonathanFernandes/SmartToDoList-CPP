@@ -1,4 +1,10 @@
 #include <iostream>
+#/***************************************************
+# * DEPRECATED: This single-file implementation is retained
+# * for reference. The project has been refactored into a
+# * modular CMake layout under `src/` with headers in `include/`.
+# * See `README.md` for details.
+# ***************************************************/
 #include <fstream>
 #include <iomanip>
 #include <ctime>
